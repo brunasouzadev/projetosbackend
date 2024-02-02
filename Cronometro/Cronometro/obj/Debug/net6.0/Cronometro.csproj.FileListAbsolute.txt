@@ -1,0 +1,14 @@
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+C:\fork_bruna\projetosbackend\Cronometro\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll

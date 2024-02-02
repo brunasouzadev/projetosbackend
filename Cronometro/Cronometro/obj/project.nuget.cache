@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "djfTgTsQoH5dzXU8da2Ab1/Nvk+4rIlyIGnTJgqzuCPoat6f0aF0gW0th4XsukWb4NHn6CeurI8RvDUnRyU9jw==",
+  "success": true,
+  "projectFilePath": "C:\\fork_bruna\\projetosbackend\\Cronometro\\Cronometro\\Cronometro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
