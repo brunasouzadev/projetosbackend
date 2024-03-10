@@ -1,0 +1,15 @@
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.sourcelink.json
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\fork_bruna\projetosbackend\TextEditor\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll

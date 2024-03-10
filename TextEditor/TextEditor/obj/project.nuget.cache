@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzvOQKqtA96Y/wMvfZ17mRJggbybfGbV+A1Azv5hOsOx0C+yUxK0KwrWosryWnzO/nSpmez9zJAMWuMq3DKrzA==",
+  "success": true,
+  "projectFilePath": "C:\\fork_bruna\\projetosbackend\\TextEditor\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
